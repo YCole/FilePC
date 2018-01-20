@@ -1,0 +1,2 @@
+# Avoid progroud on featurebar
+-dontwarn com.qcom.android.support.featurebar.*
